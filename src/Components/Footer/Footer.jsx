@@ -13,16 +13,16 @@ const Footer = () => {
                             Los invitamos a visitarnos en nustreas Redes Sociales
                         </h5>
                         <div className="my-5">
-                            <button className="text-black bg-white h-10 w-10 rounded-full mr-2 hover:text-white hover:bg-black">
+                            <button className="text-black bg-white h-10 w-10 rounded-full mr-2 hover:text-white hover:bg-black" onClick={() => {console.log("Probando X")}}>
                                 <i className="fa-brands fa-x-twitter"></i>
                             </button>
-                            <button className="text-blue-500 bg-white h-10 w-10 rounded-full mr-2 hover:text-white hover:bg-blue-500">
+                            <button className="text-blue-500 bg-white h-10 w-10 rounded-full mr-2 hover:text-white hover:bg-blue-500" onClick={() => {console.log("Probando Facebook")}}>
                                 <i className="fab fa-facebook"></i>
                             </button>
-                            <button className="bg-white text-pink-500 h-10 w-10 rounded-full mr-2 hover:text-white hover:bg-pink-500">
+                            <button className="bg-white text-pink-500 h-10 w-10 rounded-full mr-2 hover:text-white hover:bg-pink-500" onClick={() => {console.log("Probando Instagram")}}>
                                 <i className="fab fa-instagram"></i>
                             </button>
-                            <button className="bg-white text-red-500 h-10 w-10 rounded-full mr-2 hover:text-white hover:bg-red-500">
+                            <button className="bg-white text-red-500 h-10 w-10 rounded-full mr-2 hover:text-white hover:bg-red-500" onClick={() => {console.log("Probando YouTube")}}>
                                 <i className="fab fa-youtube"></i>
                             </button>
                         </div>
