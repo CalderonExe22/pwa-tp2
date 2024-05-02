@@ -1,0 +1,11 @@
+
+
+{
+    "id":1,
+    "nombre": "Ford Mustang",
+    "anio": 1964,
+    "video": "https://rr2---sn-bg0s7n7k.googlevideo.com/videoplayback?expire=1714599389&ei=fGEyZrmuO5_u4t4Pq7S7uAQ&ip=136.158.79.143&id=o-AI6kA189vp1f_8VCdtVP1aH-_bNlv2YcGehqHMxCED4H&itag=299&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308%2C315&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&pcm2=no&bui=AWRWj2Tv9JhFxcgJevesvIQHRyMeEHCMi8JOMfOlSlhpFRWQA7pWQkh1K1XQYjNOm1tCxopZafH_35Bg&spc=UWF9f11Zc8CMwtOvih7wzPdpBzkTh5Cdx81kJ9IPQEM6NSWpo0WBi19FXMUN&vprv=1&svpuc=1&mime=video%2Fmp4&ns=Mmld3uzdhjK58cKzQ1xqu90Q&gir=yes&clen=58416710&dur=106.033&lmt=1622362867860993&keepalive=yes&c=WEB&sefc=1&txp=5311224&n=r2l92JBTp8ETVg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAIqJYbBWOIpcO8zFjemm-h2mLXJSLYHrgKXfujImzM_aAiEA0VtZYinQAkTQ2GglsJCTgecySPZ9M69_pavutHmHFyw%3D&rm=sn-jvhja5g3-hoal77s,sn-jvhja5g3-hoaes7l,sn-hoaz7e&req_id=a32235f9e097a3ee&ipbypass=yes&redirect_counter=4&cm2rm=sn-x1xld76&cms_redirect=yes&cmsv=e&mh=NB&mip=186.134.152.124&mm=34&mn=sn-bg0s7n7k&ms=ltu&mt=1714577553&mv=m&mvi=2&pl=23&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRAIgKj0CZ8IBfietOgdxBaSDlisJZ-7epjWSgcJAOgKE9C8CIGJujakweR2m0MzwXZMMMuAaJTzQB8DlnDDurbPGBQ-M",
+    "descripcion": "wwhgbwwgwrehgb",
+    "motor" : "v8",
+    "puertas" : "2"
+}
