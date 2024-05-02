@@ -1,0 +1,12 @@
+
+.botonEfecto
+{
+    @apply h-12 w-1 bg-white;
+    transition: 300ms ease-in-out; /* Transición para el cambio de ancho */
+}
+
+.boton
+{
+    @apply h-5 w-1 bg-white;
+    transition: 300ms ease-in-out; /* Transición para el cambio de ancho */
+}

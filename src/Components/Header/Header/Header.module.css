@@ -1,0 +1,37 @@
+.header
+{
+    transition: 350ms all ease-in-out;
+    background-color: #2c3e5036;
+    @apply fixed text-white top-0 left-0 w-full z-20 p-4;
+}
+
+.scrolled
+{
+    top: -200px;
+    transition: 350ms all ease-in-out;
+    @apply fixed text-white left-0 w-full z-20 p-4;
+}
+
+.hidden
+{
+    top: -200px;
+}
+
+.logo
+{
+    font-family: 'Mr Dafoe', cursive;
+    font-size:55px;
+    font-weight: 500;
+    
+}
+
+.links
+{
+    @apply w-40;
+    transition: 200ms ease-in-out;
+}
+
+.links:hover
+{
+    color: #a1a089;
+}

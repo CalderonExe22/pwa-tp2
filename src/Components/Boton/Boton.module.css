@@ -1,0 +1,14 @@
+
+.boton
+{
+    @apply text-white pe-4 ps-4 pt-2 pb-2 cursor-pointer;
+    transition: 300ms ease-in; 
+    outline: 1px solid transparent;
+}
+
+.boton:hover 
+{
+    background-color: #800020;
+    color: #fff;
+    border-radius: 15px;
+}
