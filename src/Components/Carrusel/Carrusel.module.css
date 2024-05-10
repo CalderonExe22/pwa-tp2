@@ -1,16 +1,11 @@
 .carrusel 
 {
-    display: flex;
-    flex-direction: column;
-    width: 100%; /* Ancho de pantalla completa */
-    height: 100vh; /* Altura de pantalla completa */
+    @apply flex flex-col w-full h-lvh;
 }
 
 .items
 {
-    position: relative;
-    width: 100%;
-    height: 100vh !important;
+    @apply relative w-full h-lvh;
     transition: 300ms all;
 }
 
@@ -34,21 +29,13 @@
 
 .items:hover .text
 {
-    @apply flex flex-col gap-10 justify-center items-center text-white;
-    width: 100%;
-    height: 100%; 
+    @apply flex flex-col gap-10 justify-center items-center text-white w-full h-full z-20;
     font-size: 50px;
-    z-index: 2;
-    
 }
 
 .video
 {
-    position: absolute;
-    width: 100%;
-    height: 100vh;
-    object-fit: cover;
-    z-index: -2;
+    @apply absolute w-full h-lvh object-cover -z-20;
 }
 
 .titles

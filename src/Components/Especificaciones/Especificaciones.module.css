@@ -1,9 +1,8 @@
 
 .datos
 {
-    @apply grid w-full h-full;
+    @apply grid w-full h-lvh;
     grid-template-columns: 20% 80%;
-    height: 100vh;
 }
 
 .especificaciones
@@ -24,5 +23,5 @@
 .marca
 {
     font-family: 'Mr Dafoe', cursive;
-    font-size: 60px;
+    font-size: 40px;
 }

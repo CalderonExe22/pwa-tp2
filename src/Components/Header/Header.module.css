@@ -15,6 +15,7 @@
 .hidden
 {
     top: -200px;
+    transition: 350ms all ease-in-out;
 }
 
 .logo

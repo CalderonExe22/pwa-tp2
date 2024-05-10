@@ -1,21 +1,16 @@
 .carrusel
 {
-    display: flex;
-    flex-direction: column;
-    width: 100%; /* Ancho de pantalla completa */
-    height: 100vh; /* Altura de pantalla completa */
+    @apply flex flex-col w-full h-lvh;
 }
 
 .items
 {
-    position: relative;
-    width: 100%;
-    height: 100vh;
+    @apply relative w-full h-lvh;
     transition: 300ms all;
 }
 
 .items img
 {
-    width: 1500px;
+    width: 1400px;
 }
 

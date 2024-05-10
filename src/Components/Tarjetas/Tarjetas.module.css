@@ -1,8 +1,6 @@
 .items
 {
-    position: relative;
-    width: 100%;
-    height: 100vh !important;
+    @apply relative w-full h-lvh;
     transition: 300ms all;
 }
 
@@ -36,11 +34,7 @@
 
 .video
 {
-    position: absolute;
-    width: 100%;
-    height: 100vh;
-    object-fit: cover;
-    z-index: -2;
+    @apply absolute w-full h-lvh object-cover -z-10;
 }
 
 .titles
