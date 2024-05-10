@@ -26,7 +26,7 @@
     "imagenesFondo":{
         "imagenInicio":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/ladoFondo.png",
         "imagenHistoria":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/frenteFondo.png",
-        "imagenDiseño":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/atrasFondo.png"
+        "imagenDisenio":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/atrasFondo.png"
     },
     "colores":{
         "colorFondoDegradado":"rgb(216,222,227)",

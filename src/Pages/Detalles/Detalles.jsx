@@ -109,7 +109,7 @@ const Detalles = () =>{
                     </div>
                     <div className="flex justify-end items-center">
                         <Section segundos={"8"}>
-                            <img src={auto.imagenesFondo?.imagenDiseño} alt="w" />
+                            <img src={auto.imagenesFondo?.imagenDisenio} alt="w" />
                         </Section>
                     </div>
                 </div>
