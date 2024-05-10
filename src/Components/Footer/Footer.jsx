@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className="footers bg-gray-600">
             <div className="px-5 py-10">
                 <div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-4">
-                    <div className="sm:col-span-2">
+                    <div className="sm:col-span-2 text-center">
                         <h4 className="text-2xl text-white">Redes Sociales</h4>
                         <h5 className="text-white py-2">
                             Los invitamos a visitarnos en nustreas Redes Sociales
@@ -44,15 +44,15 @@ const Footer = () => {
                     <div>
                         <p className="text-white text-xl lg:text-left">Enlaces Utiles</p>
                         <div className="flex flex-col items-start mt-5 space-y-2">
-                            <a href="e" className="text-white hover:underline hover:text-orange-300">Términos de Uso</a>
-                            <a href="e" className="text-white hover:underline hover:text-orange-300">Políticas de Privacidad</a>
-                            <a href="e" className="text-white hover:underline hover:text-orange-300">Preferencias de Cookies</a>
+                            <a href="#" onClick={(e)=>e.preventDefault()} className="text-white hover:underline hover:text-orange-300">Términos de Uso</a>
+                            <a href="#" onClick={(e)=>e.preventDefault()} className="text-white hover:underline hover:text-orange-300">Políticas de Privacidad</a>
+                            <a href="#" onClick={(e)=>e.preventDefault()} className="text-white hover:underline hover:text-orange-300">Preferencias de Cookies</a>
                         </div>
                     </div>
                 </div>
             </div>
             <hr className="border-gray-200" />
-            <div className="bg-gray-700">
+            <div className="bg-gray-700 text-center">
                 <p className="text-white py-3">Copyright © Todos los derechos reservados - 2024</p>
             </div>
         </footer>

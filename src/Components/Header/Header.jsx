@@ -36,7 +36,7 @@ const Header = () =>{
                     <h1 className={style.logo}>ClassicsCars</h1>
                 </nav>
                 <nav className="flex justify-center items-center gap-16 font-bold text-lg">
-                    <a href={RUTAS.home} className={style.links}>Home</a>
+                    <a href={RUTAS.home} className={style.links}><i class="fa-solid fa-house"></i> Home</a>
                     <Search/>
                 </nav>
             </nav>

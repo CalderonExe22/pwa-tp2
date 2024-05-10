@@ -10,7 +10,6 @@
 {
     filter: blur(5px);
     transition: 300ms all;
-    box-shadow: none !important;
 }
 
 .presentacion
@@ -51,7 +50,7 @@
 
 .info2
 {
-    @apply text-right w-full p-16;
+    @apply text-left w-full p-16;
 }
 
 .titles
@@ -63,14 +62,16 @@
 
 .info p
 {
-    font-size: 24px;
+    font-size: 20px;
     color: #F7F6F3;
+    width: 50%;
 }
 
 .info2 p
 {
-    font-size: 24px;
+    font-size: 20px;
     color: #F7F6F3;
+    width: 50%;
 }
 
 .continuar
@@ -81,11 +82,10 @@
 
 .datos
 {
-    @apply flex flex-col p-0 justify-center items-center;
+    @apply flex flex-col p-0 justify-center items-center z-30;
     position: relative;
     height: 100vh;
     width: 100%;
-    overflow: hidden;
 }
 
 .datos2

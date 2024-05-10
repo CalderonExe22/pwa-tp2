@@ -8,7 +8,7 @@
     "especificaciones":{
         "motor":"V12",
         "HP":"300 CV",
-        "aceleracion":"0 a 100 km/h en 5,8",
+        "0 a 100":"0 a 100 km/h en 5,8",
         "Marchas":"Manual de 5 velocidades"
     },
     "historia":"Los Ferrari 250 GTO fueron diseñados para competir en la categoría GT, como una evolución de los Ferrari 250 GT SWB. El ingeniero Giotto Bizzarrini lideró el proyecto, adaptando el chasis del SWB con un motor V12 Colombo Tipo 168 Comp/62 de 3 litros y 300 CV. Después de disputas internas en Ferrari, el desarrollo fue transferido a Mauro Forghieri y Sergio Scaglietti. La carrocería se ensanchó y refinó en pruebas de túnel de viento. El vehículo presentaba tecnología avanzada para los años 60, con un bastidor tubular, suspensión delantera de doble horquilla, frenos de disco y una innovadora caja de cambios de cinco velocidades. El interior era notablemente austero, sin incluso un velocímetro en el tablero de instrumentos.",
@@ -33,6 +33,6 @@
         "degradado":"linear-gradient(0deg, rgba(167,0,20,1) 20%, rgba(225,78,94,1) 40%, rgba(225,78,94,1) 60%, rgba(167,0,20,1) 80%)",
         "color1":"#fff",
         "color2":"#431011",
-        "color3":"#431011"
+        "color3":"#A70014"
     }
 }
