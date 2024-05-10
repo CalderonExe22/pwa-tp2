@@ -6,10 +6,13 @@
 Este sitio web ha sido desarrollado como parte de un trabajo práctico para la asignatura de Programación Web Avanzada en la Universidad Nacional del Comahue. En esta plataforma, los usuarios podrán visualizar una selección de autos clásicos, cada uno acompañado de una breve descripción y un botón que los dirigirá a una segunda página detallada donde encontrarán más información sobre el vehículo seleccionado. Asimismo, la plataforma contará con un buscador que permitirá a los usuarios filtrar los autos por su nombre.
 
 ### Página de Inicio:
-
+![Home](https://github.com/CalderonExe22/pwa-tp2/assets/94760108/8fc20c9f-c3ea-417b-8e0f-dda437041cf0)
+![carrusel](https://github.com/CalderonExe22/pwa-tp2/assets/94760108/3096b9ef-c026-4806-a440-d75201511937)
 
 ### Página Detalle de un Auto Seleccionado:
-
+![Detalles1](https://github.com/CalderonExe22/pwa-tp2/assets/94760108/e3577774-9708-466c-88c1-903416bb25c6)
+![Detalles2](https://github.com/CalderonExe22/pwa-tp2/assets/94760108/b48f5695-8153-45be-95cb-02e7119ac7c8)
+![Detalles3](https://github.com/CalderonExe22/pwa-tp2/assets/94760108/efe38ad3-98ae-4b41-8ef5-49ffa450cb4c)
 
 ## Desarrolladores:
 * Exequiel Calderon FAI-4432
