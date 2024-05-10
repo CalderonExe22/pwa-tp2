@@ -102,7 +102,7 @@ const Detalles = () =>{
                         <div className="flex flex-col gap-10 ps-52">
                             <Section segundos={"8"}>
                                 <h1 className="text-2xl"> -Dise&ntilde;o</h1>
-                                <h1 className={style.titulos}>Como se convirtio en un clasico</h1>
+                                <h1 className={style.titulos}>Que lo hace particularmente unico?</h1>
                                 <h1 className="pe-28 ps-44 leading-loose">{auto.disenio}</h1>
                             </Section>
                         </div>
