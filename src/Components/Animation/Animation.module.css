@@ -1,0 +1,6 @@
+.section span
+{
+    display: block;
+    transform: translateY(-50px);
+    opacity: 0;
+}

@@ -1,7 +1,7 @@
 .header
 {
     transition: 350ms all ease-in-out;
-    background-color: #2c3e5036;
+    background-color: transparent;
     @apply fixed text-white top-0 left-0 w-full z-20 p-4;
 }
 
@@ -34,4 +34,14 @@
 .links:hover
 {
     color: #a1a089;
+}
+
+.oculto
+{
+    display: none;
+}
+
+.visible
+{
+    display: flex;
 }

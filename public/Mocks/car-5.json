@@ -1,0 +1,37 @@
+{
+    "id":"5",
+    "nombre":"Chevrolet Corvette",
+    "version":"C2",
+    "anio":"1963",
+    "introduccion":"El Chevrolet Corvette (C2) es la segunda generación del automóvil deportivo Corvette , producido por la división Chevrolet de General Motors (GM) para los años modelo 1963 a 1967.",
+    "especificaciones":{
+        "motor":"V8",
+        "HP":"250 CV a 430 CV",
+        "aceleracion":"0 a 97 km/h en 5",
+        "Marchas":"Manual de 4 velocidades"
+    },
+    "historia":"El Chevrolet Corvette Sting Ray de 1963 tiene sus raíces en dos proyectos de General Motors: el Q-Corvette y el Sting Ray de carreras de Bill Mitchell. Estos se fusionaron en el programa XP-720, que llevó al desarrollo del Corvette de producción. Zora Arkus-Duntov lideró la creación de un chasis innovador, mientras que los diseñadores adaptaron el aspecto del Sting Ray de carreras. El Corvette de 1963 fue el primer modelo de la marca en someterse a pruebas en túneles de viento, lo que influyó en su diseño aerodinámico. Este enfoque meticuloso en diseño e ingeniería lo convirtió en un hito en la historia de los automóviles deportivos estadounidenses, estableciendo nuevos estándares de rendimiento y estilo.",
+    "creador":{
+        "foto":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/Larry_Shinoda-2.jpg",
+        "linkBiografia":"https://en.wikipedia.org/wiki/Larry_Shinoda"
+    },
+    "disenio":"El diseño del Chevrolet Corvette C2, liderado por Larry Shinoda bajo la dirección de Bill Mitchell, se destaca por su ventana trasera dividida, faros ocultos y líneas musculosas que le otorgan una apariencia agresiva y aerodinámica. El cupé de producción presentaba una carrocería fastback con un capó largo y un cortavientos elevado que continuaba sobre un pilar dividiendo la ventana trasera. Esta característica, aunque atribuida a Mitchell, tenía antecedentes en diseños previos de Harley Earl. Los faros cuádruples se mantuvieron pero se ocultaron, siendo una característica novedosa para los automóviles estadounidenses en ese momento. Las puertas del cupé se cortaron en el techo para facilitar la entrada y salida en un vehículo de baja altura, mientras que las ventilaciones falsas en el capó y los pilares traseros agregaban un toque de estilo adicional.",
+    "imagenesGaleria":{
+        "frente":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/frente.png",
+        "atras":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/atras.png",
+        "lado1":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/lado1.png",
+        "lado2":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/lado2.png"
+    },
+    "imagenesFondo":{
+        "imagenInicio":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/ladoFondo.png",
+        "imagenHistoria":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/frenteFondo.png",
+        "imagenDiseño":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chccc/atrasFondo.png"
+    },
+    "colores":{
+        "colorFondoDegradado":"rgb(216,222,227)",
+        "degradado":"linear-gradient(0deg, rgba(216,222,227,1) 20%, rgba(238,242,245,1) 40%, rgba(238,242,245,1) 60%, rgba(216,222,227,1) 80%)",
+        "color1":"#000",
+        "color2":"#6B292F",
+        "color3":"#6B292F"
+    }
+}

@@ -1,0 +1,13 @@
+.boton
+{
+    border-bottom: 7px solid transparent;
+    transition: 300ms ease-in;
+    padding: 5px;
+    color: #000;
+    font-weight: bold;
+}
+
+.boton:hover
+{
+    border-color: #800020;
+}

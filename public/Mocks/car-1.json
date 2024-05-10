@@ -2,10 +2,38 @@
 
 {
     "id":1,
-    "nombre": "Ford Mustang",
-    "anio": 1964,
-    "video": "https://rr2---sn-bg0s7n7k.googlevideo.com/videoplayback?expire=1714599389&ei=fGEyZrmuO5_u4t4Pq7S7uAQ&ip=136.158.79.143&id=o-AI6kA189vp1f_8VCdtVP1aH-_bNlv2YcGehqHMxCED4H&itag=299&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308%2C315&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&pcm2=no&bui=AWRWj2Tv9JhFxcgJevesvIQHRyMeEHCMi8JOMfOlSlhpFRWQA7pWQkh1K1XQYjNOm1tCxopZafH_35Bg&spc=UWF9f11Zc8CMwtOvih7wzPdpBzkTh5Cdx81kJ9IPQEM6NSWpo0WBi19FXMUN&vprv=1&svpuc=1&mime=video%2Fmp4&ns=Mmld3uzdhjK58cKzQ1xqu90Q&gir=yes&clen=58416710&dur=106.033&lmt=1622362867860993&keepalive=yes&c=WEB&sefc=1&txp=5311224&n=r2l92JBTp8ETVg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAIqJYbBWOIpcO8zFjemm-h2mLXJSLYHrgKXfujImzM_aAiEA0VtZYinQAkTQ2GglsJCTgecySPZ9M69_pavutHmHFyw%3D&rm=sn-jvhja5g3-hoal77s,sn-jvhja5g3-hoaes7l,sn-hoaz7e&req_id=a32235f9e097a3ee&ipbypass=yes&redirect_counter=4&cm2rm=sn-x1xld76&cms_redirect=yes&cmsv=e&mh=NB&mip=186.134.152.124&mm=34&mn=sn-bg0s7n7k&ms=ltu&mt=1714577553&mv=m&mvi=2&pl=23&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRAIgKj0CZ8IBfietOgdxBaSDlisJZ-7epjWSgcJAOgKE9C8CIGJujakweR2m0MzwXZMMMuAaJTzQB8DlnDDurbPGBQ-M",
-    "descripcion": "wwhgbwwgwrehgb",
-    "motor" : "v8",
-    "puertas" : "2"
+    "nombre":"Ford Mustang",
+    "version":"Shelby GT 500",
+    "anio":1967,
+    "introduccion":"En 1967, Carroll Shelby creó Ford Mustang GT350, el primero de una espectacular lista de autos. Tenía un V8 modificado de 7L y 428 pulgadas cúbicas de poder, que estaba inspirado en el 1,2,3 de su equipo en Le Mans. Este mismo año (1967) también se presentó el GT500 con un motor “Cobra Le Mans” Ford V8.",
+    "especificaciones":{
+        "motor":"OHV V8 Supercharged",
+        "HP":"360 CV",
+        "aceleracion":"0-100 km/h en 6,5",
+        "Marchas":"4 marchas"
+    },  
+    "historia":"El Ford Mustang Shelby GT500, introducido en 1967, fue una colaboración entre Ford Motor Company y Carroll Shelby, un famoso piloto y diseñador de automóviles estadounidense. Este modelo fue una evolución del Mustang original, diseñado para ofrecer un rendimiento aún más impresionante y un estilo agresivo.El GT500 presentaba un motor potente y modificado, el 'Cobra Le Mans' Ford V8, que ofrecía una potencia impresionante y un rendimiento emocionante. Con una suspensión mejorada y otras mejoras en el chasis, el GT500 ofrecía una experiencia de manejo emocionante tanto en la carretera como en la pista.El Mustang Shelby GT500 de 1967 dejó una marca indeleble en la cultura automovilística estadounidense. Su diseño distintivo, su potente motor y su asociación con Carroll Shelby lo convirtieron en un icono de la era del muscle car. Hoy en día, los entusiastas de los automóviles clásicos y los coleccionistas consideran al GT500 como una pieza de colección altamente deseada.",
+    "creador":{
+        "foto":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/fm/creador.webp",
+        "linkBiografia":"https://es.wikipedia.org/wiki/Carroll_Shelby"
+    },
+    "disenio":"El diseño del Ford Mustang Shelby GT500 de 1967 es icónico y atemporal, capturando la esencia del muscle car estadounidense de la época.el diseño del Ford Mustang Shelby GT500 de 1967 es una combinación perfecta de estilo agresivo, detalles distintivos y proporciones clásicas que lo convierten en un ícono del diseño automotriz estadounidense. Su apariencia única y su rendimiento emocionante lo han convertido en un objeto de deseo para los entusiastas de los automóviles clásicos de todo el mundo.",
+    "imagenesGaleria":{
+        "frente":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/fm/frente.png",
+        "atras":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/fm/atras.png",
+        "lado1":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/fm/lado1.png",
+        "lado2":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/fm/lado2.png"
+    },
+    "imagenesFondo":{
+        "imagenInicio":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/fm/ladoFondo.png",
+        "imagenHistoria":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/fm/frenteFondo.png",
+        "imagenDiseño":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/fm/atrasFondo.png"
+    },
+    "colores" : {
+        "colorFondoDegradado":"rgb(29,28,31)",
+        "degradado":"linear-gradient(0deg, rgba(29,28,31,1) 0%, rgba(69,67,72,1) 25%, rgba(86,85,89,1) 50%, rgba(69,67,72,1) 75%, rgba(45,45,47,1) 100%)",
+        "color1":"#fff",
+        "color2":"#2E2E30",
+        "color3":"#1F1E21"
+    }
 }

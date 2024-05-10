@@ -1,0 +1,37 @@
+{
+    "id":"2",
+    "nombre":"Chevrolet Camaro ",
+    "version":"Z28",
+    "anio":"1969",
+    "introduccion":"El Chevrolet Camaro Z28 es un icónico automóvil deportivo de dos puertas, perteneciente a la línea Camaro producida por Chevrolet. Destacado por su rendimiento y diseño deportivo, el Z28 encarna la pasión por la velocidad y la potencia que caracterizó a la era dorada de los muscle cars en Estados Unidos.",
+    "especificaciones":{
+        "motor":"V8",
+        "HP":"142 CV",
+        "aceleracion":"0 a 100 km/h en 6,8",
+        "Marchas":"Manual Saginaw de 3 velocidades"
+    },
+    "historia":"El Chevrolet Camaro Z28 fue introducido en 1967 como respuesta de General Motors al Ford Mustang, estableciéndose como un pony car y, en ciertas versiones, también como un muscle car. Desde su debut, el Z28 ha cautivado a los entusiastas del automovilismo con su potente rendimiento, diseño distintivo y emocionante experiencia de conducción. A lo largo de los años, el Z28 ha evolucionado y se ha consolidado como un ícono del automovilismo americano, dejando una huella imborrable en la historia del automóvil.",
+    "creador":{
+        "foto":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chc/logoCamaro.jpg",
+        "linkBiografia":"https://es.wikipedia.org/wiki/Chevrolet_Camaro"
+    },
+    "disenio":"Henry C. Haga lideró las modificaciones significativas en la carrocería del Chevrolet Camaro Z28 para el modelo 1969. Estos cambios incluyeron ajustes en el frente, los guardabarros, los cuartos y la cubierta trasera, lo que contribuyó a una apariencia más simplificada y agresiva. Además, se realizaron mejoras estilísticas en los biseles de las luces traseras, el diseño de la parrilla y las molduras laterales. En el interior, se implementaron mejoras en el panel de instrumentos, el acabado de madera y la ubicación de los controles, como el interruptor de encendido.",
+    "imagenesGaleria":{
+        "frente":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chc/frente.png",
+        "atras":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chc/atras.png",
+        "lado1":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chc/lado1.png",
+        "lado2":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chc/lado2.png"
+    },
+    "imagenesFondo":{
+        "imagenInicio":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chc/ladoFondo.png",
+        "imagenHistoria":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chc/frenteFondo.png",
+        "imagenDiseño":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/chc/atrasFondo.png"
+    },
+    "colores":{
+        "colorFondoDegradado":"rgb(213,172,4)",
+        "degradado":"linear-gradient(0deg, rgba(213,172,4,1) 20%, rgba(230,189,3,1) 40%, rgba(230,189,3,1) 60%, rgba(213,172,4,1) 80%)",
+        "color1":"#060604",
+        "color2":"#CBA401",
+        "color3":"#CBA401"
+    }
+}

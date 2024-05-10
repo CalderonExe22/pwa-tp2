@@ -2,7 +2,7 @@
 import style from "./BotonDesplazar.module.css";
 import React, { useState } from "react";
 
-const BotonDesplazar = () =>{
+const Galeria = () =>{
 
     const [onClick,setOnClick] = useState(false)
 
@@ -32,4 +32,4 @@ const BotonDesplazar = () =>{
     )
 }
 
-export default BotonDesplazar
+export default Galeria

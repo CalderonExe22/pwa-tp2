@@ -26,7 +26,7 @@
 
 .items:hover .text
 {
-    @apply flex flex-col gap-10 justify-center items-center text-white ;
+    @apply flex flex-col gap-10 justify-center items-center text-center text-white ;
     width: 100%;
     height: 100%; 
     font-size: 20px;

@@ -1,0 +1,23 @@
+.dataOcultar
+{
+    @apply flex justify-start items-center ps-10 text-2xl font-bold	;
+}
+
+.dataMostrar
+{
+    @apply flex justify-evenly items-center ps-10 z-10 text-2xl font-bold	;
+    transition: 300ms;
+    width:950px;
+}
+
+.text
+{
+    @apply justify-center items-center ;
+    display: flex;
+    transition: 300ms all;
+}
+
+.textOcultar
+{
+    display: none;
+}

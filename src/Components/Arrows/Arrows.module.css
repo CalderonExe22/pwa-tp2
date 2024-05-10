@@ -1,0 +1,13 @@
+
+.boton
+{
+    transition: 300ms ease-in;
+    font-size: 50px;
+    padding: 30px;
+    color: black;
+}
+
+.boton:hover
+{
+    transform: scale(1.1);
+}

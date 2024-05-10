@@ -1,0 +1,28 @@
+
+.datos
+{
+    @apply grid w-full h-full;
+    grid-template-columns: 20% 80%;
+    height: 100vh;
+}
+
+.especificaciones
+{
+    @apply grid;
+    grid-template-rows: auto;
+    color: white;
+}
+
+.titles
+{
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 280px;
+    z-index: -1;
+    width: 100%;
+}
+
+.marca
+{
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 60px;
+}

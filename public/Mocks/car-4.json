@@ -1,0 +1,37 @@
+{
+    "id":"4",
+    "nombre":"Jaguar",
+    "version":" E-Type",
+    "anio":1961,
+    "introduccion":"El Jaguar E-Type, es un automóvil deportivo producido por Jaguar Cars entre los años 1961 y 1975. Fue exhibido en el Salón del Automóvil de Ginebra en marzo de 1961. En su lanzamiento el 15 de marzo de 1961, Enzo Ferrari lo llamó el automóvil más bello jamás fabricado. En marzo de 2008, el Jaguar E-Type ocupó el primer lugar en la lista en línea de The Daily Telegraph de los 100 autos más hermosos del mundo de todos los tiempos.",
+    "especificaciones":{
+        "motor":"V12",
+        "HP":"269 CV a 276 CV",
+        "aceleracion":"0-100 km/h en 6,9",
+        "Marchas":"Manual syncromesh de 4 marchas"
+    },
+    "historia":"El Jaguar E-Type fue lanzado como un Gran Turismo de tracción trasera en forma de biplaza Fixed Head Coupé (FHC) o roadster Open Two Seater (OTS). Diseñado por Malcolm Sayer, reemplazó a los populares XK120, XK140 y XK150. Las actualizaciones posteriores se dividieron en Serie 2 y Serie 3, mientras que los modelos originales se denominaron Serie 1. Estos últimos, especialmente los fabricados entre 1961 y 1964 con motores de 3.8 litros y transmisión syncromesh parcial, son altamente valorados. A lo largo de su producción, se fabricaron alrededor de 14,577 roadsters, con el MoMA de Nueva York adquiriendo uno en 1996 por su destacado estilo y rendimiento.",
+    "creador":{
+        "foto":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/jep/Malcolm-Sayer-3.jpg",
+        "linkBiografia":"https://en.wikipedia.org/wiki/Malcolm_Sayer"
+    },
+    "disenio":"El diseño del Jaguar E-Type fue obra de Malcolm Sayer, un ingeniero aerodinámico de Jaguar. Su carrocería elegante y sus líneas fluidas lo convierten en una obra maestra del diseño automotriz.",
+    "imagenesGaleria":{
+        "frente":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/jep/frente.png",
+        "atras":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/jep/atras.png",
+        "lado1":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/jep/lado1.png",
+        "lado2":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/jep/lado2.png"
+    },
+    "imagenesFondo":{
+        "imagenInicio":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/jep/ladoFondo.png",
+        "imagenHistoria":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/jep/frenteFondo.png",
+        "imagenDiseño":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/jep/atrasFondo.png"
+    },
+    "colores":{
+        "colorFondoDegradado":"rgb(85,88,93)",
+        "degradado":"linear-gradient(0deg, rgba(85,88,93,1) 20%, rgba(110,115,121,1) 40%, rgba(110,115,121,1) 60%, rgba(85,88,93,1) 80%)",
+        "color1":"#fff",
+        "color2":"#27282C",
+        "color3":"#636A75"
+    }
+}

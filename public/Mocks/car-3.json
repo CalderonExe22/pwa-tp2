@@ -1,0 +1,37 @@
+{
+    "id":3,
+    "nombre":"Dodge Charger",
+    "version":"500",
+    "anio":1970,
+    "introduccion":"El Dodge Charger 500 de 1970 fue una versión especial del clásico muscle car estadounidense. Se destacaba por su estilo agresivo y su rendimiento impresionante, convirtiéndose en un icono de la época dorada de los muscle cars.",
+    "especificaciones":{
+        "motor":"500 V8",
+        "HP":"375 CV",
+        "aceleracion":"0-100 km/h en 6,5",
+        "Marchas":"Manual de 4 velocidades"
+    },
+    "historia":"Dodge Challenger 1970 es un automóvil legendario que ha dejado una marca indeleble en la industria automotriz. Se convirtió en objeto de deseo de todo amante de la velocidad y los vehículos deportivos, teniendo una importante presencia en la época dorada de los muscle cars. Y aunque su primera generación duró solo cinco años, el Dodge Challenger destacó como uno de los autos de mayor potencia en la historia, con ejemplares legendarios que hoy te presentamos en esta publicación.",
+    "creador":{
+        "foto":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/dch/creador.jpg",
+        "linkBiografia":"https://es.wikipedia.org/wiki/Dodge_Charger_(B-body)"
+    },
+    "disenio":"El diseño del Dodge Charger 500 de 1970 se distingue por su estilo agresivo y sus características aerodinámicas, diseñadas específicamente para mejorar el rendimiento en la pista de carreras de la NASCAR.Una de las características más distintivas del Charger 500 fue su perfil aerodinámico mejorado. Se rediseñó el frente del automóvil para reducir la resistencia al aire y mejorar la estabilidad a altas velocidades. El capó del Charger 500 presentaba tomas de aire funcionales que permitían el flujo de aire adicional al motor para mejorar la refrigeración. Estas tomas de aire también contribuyeron al aspecto agresivo y deportivo del automóvil.",
+    "imagenesGaleria":{
+        "frente":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/dch/frente.png",
+        "atras":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/dch/atras.png",
+        "lado1":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/dch/lado1.png",
+        "lado2":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/dch/lado2.png"
+    },
+    "imagenesFondo":{
+        "imagenInicio":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/dch/ladoFondo.png",
+        "imagenHistoria":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/dch/frenteFondo.png",
+        "imagenDiseño":"https://exequiel-pwa-imgs.s3.us-east-2.amazonaws.com/dch/atrasFondo.png"
+    },
+    "colores" : {
+        "colorFondoDegradado":"rgb(16,16,16)",
+        "degradado":"linear-gradient(0deg, rgba(16,16,16,1) 20%, rgba(17,17,17,1) 40%, rgba(16,16,16,1) 50%, rgba(16,16,16,1) 60%, rgba(16,16,16,1) 80%)",
+        "color1":"#B4B3B1",
+        "color2":"#7E121A",
+        "color3":"#101010"
+    }
+}
