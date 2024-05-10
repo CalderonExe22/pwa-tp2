@@ -3,7 +3,13 @@
 ## Proyecto Classics Cars
 
 ### Descripción:
-Este sitio Web fue desarrollado como parte de un trabajo práctico para la asignatura de Programación Web Avanzada en la Universidad Nacional del Comahue. En esta plataforma, se podrán visualizar una selección de autos clásicos, así como acceder a información relevante sobre estos vehículos.
+Este sitio web ha sido desarrollado como parte de un trabajo práctico para la asignatura de Programación Web Avanzada en la Universidad Nacional del Comahue. En esta plataforma, los usuarios podrán visualizar una selección de autos clásicos, cada uno acompañado de una breve descripción y un botón que los dirigirá a una segunda página detallada donde encontrarán más información sobre el vehículo seleccionado. Asimismo, la plataforma contará con un buscador que permitirá a los usuarios filtrar los autos por su nombre.
+
+### Página de Inicio:
+
+
+### Página Detalle de un Auto Seleccionado:
+
 
 ## Desarrolladores:
 * Exequiel Calderon FAI-4432
