@@ -31,7 +31,7 @@ const Detalles = () =>{
                 <div className="absolute top-32 w-full z-0 text-center">
                     <AnimatePresence mode="wait">
                         <motion.div initial={{ y: 10, opacity: 0 }} animate={{ y: 0, opacity: 1 }} exit={{ y: -30, opacity: 0 }} transition={{ duration: 1.2 }}>
-                            <h1 style={{color:auto.colores?.color2}} className={style.titles}>{auto.nombre}</h1>
+                            <h1 style={{color:auto.colores?.color2}} className={style.titles}>{auto.titulo}</h1>
                         </motion.div>
                     </AnimatePresence>        
                 </div>
@@ -67,7 +67,7 @@ const Detalles = () =>{
 
             <div className={style.galery}>
                 <Navegate setMostrarEspecificacion={setMostrarEspecificaciones}/>
-                {mostrarEspecificaciones?<Especificaciones data={auto.especificaciones} img={auto.imagenesGaleria?.lado1} nombre={auto.nombre} color={auto.colores?.color3}/> : <Galeria imgs={auto.imagenesGaleria}/>}
+                {mostrarEspecificaciones?<Especificaciones data={auto.especificaciones} img={auto.imagenesGaleria?.lado1} nombre={auto.nombre} titulo={auto.titulo} color={auto.colores?.color3}/> : <Galeria imgs={auto.imagenesGaleria}/>}
             </div>
 
             <div style={{backgroundColor:auto.colores?.color3,color:auto.colores?.color1}} id="datosAutos" className={style.datosAutos}>   

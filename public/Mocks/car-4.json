@@ -1,7 +1,8 @@
 {
     "id":"4",
+    "titulo":"Jaguar",
     "nombre":"Jaguar",
-    "version":" E-Type",
+    "version":"E-Type",
     "anio":1961,
     "introduccion":"El Jaguar E-Type, es un automóvil deportivo producido por Jaguar Cars entre los años 1961 y 1975. Fue exhibido en el Salón del Automóvil de Ginebra en marzo de 1961. En su lanzamiento el 15 de marzo de 1961, Enzo Ferrari lo llamó el automóvil más bello jamás fabricado. En marzo de 2008, el Jaguar E-Type ocupó el primer lugar en la lista en línea de The Daily Telegraph de los 100 autos más hermosos del mundo de todos los tiempos.",
     "especificaciones":{
